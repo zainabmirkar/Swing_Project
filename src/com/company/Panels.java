@@ -30,8 +30,10 @@ public class Panels {
 
 
 
+
         // dont forget tp add the panel in the frame
         frame.add(redPanel);
+
         redPanel.add(label);
     }
 }
